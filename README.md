@@ -3,11 +3,11 @@
 ## Overview
 This project demonstrates how to use a **TMP36 Temperature Sensor** with an **Arduino Uno** to measure temperature and display the readings in the **Serial Monitor**.
 
-![ghg]()
+![ghg](image/NTC.png)
 
 The TMP36 is a simple analog temperature sensor that outputs a voltage proportional to the temperature, making it a great beginner-friendly component for learning sensor input and serial communication.
 
-![ghg]()
+![ghg](image/NTC-serial.png)
 
 This project helps in understanding:
 - Analog sensor reading
